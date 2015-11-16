@@ -1,0 +1,27 @@
+{
+  "name": "PersonalWebsite",
+  "homepage": "https://github.com/david-meza/portfolio-v2",
+  "authors": [
+    "David <davidmeza@outlook.com>"
+  ],
+  "description": "My portfolio",
+  "main": "readme.md",
+  "moduleType": [],
+  "keywords": [
+    "portfolio"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.5"
+  }
+}
